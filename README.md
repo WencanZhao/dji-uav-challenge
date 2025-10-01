@@ -41,6 +41,7 @@ When running the analysis script, the following response curve can be generated:
 
 ![PID Response](results/pid_response.png)
 
+
 The figure illustrates the deviation between **target altitude** and **measured altitude**, highlighting system stability and tuning effectiveness.
 
 ---

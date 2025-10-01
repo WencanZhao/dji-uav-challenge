@@ -24,3 +24,8 @@ This project replicates the process by simulating PID control and analyzing UAV 
 
 ##  Project Structure  
 
+## Example Result
+
+When you run the analysis script, you’ll get a figure like this:
+
+![PID Response](results/pid_response.png)

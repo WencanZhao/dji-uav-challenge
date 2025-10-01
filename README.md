@@ -35,12 +35,15 @@ This project provides:
 
 ---
 
-### Example Result
+## Example Results
 
-**Log Analysis (from flight_log.csv):**
+### PID Simulation
+This figure shows the simulated response of the UAV altitude control using a PID controller:
+
 ![PID Response](results/pid_response.png)
 
-**PID Simulation:**
-![PID Simulation](results/pid_simulation.png)
+### Flight Log Analysis
+This figure illustrates the deviation between **target altitude** and **measured altitude**, showing stability and tuning effectiveness:
 
+![Log Analysis](results/log_analysis.png)
 

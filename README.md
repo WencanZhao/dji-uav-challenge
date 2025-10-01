@@ -42,8 +42,4 @@ This figure shows the simulated response of the UAV altitude control using a PID
 
 ![PID Response](results/pid_response.png)
 
-### Flight Log Analysis
-This figure illustrates the deviation between **target altitude** and **measured altitude**, showing stability and tuning effectiveness:
-
-![Log Analysis](results/log_analysis.png)
 

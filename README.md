@@ -35,28 +35,12 @@ This project provides:
 
 ---
 
-## Example Result
+### Example Result
 
-When running the analysis script, the following response curve can be generated:
-
+**Log Analysis (from flight_log.csv):**
 ![PID Response](results/pid_response.png)
 
-
-The figure illustrates the deviation between **target altitude** and **measured altitude**, highlighting system stability and tuning effectiveness.
-
----
-
-## Future Work
-
-- Extend analysis to 6-DOF UAV dynamics.  
-- Compare classical PID with modern control methods (LQR, MPC).  
-- Integrate real-world DJI UAV flight data for validation.  
-
----
-
-## Citation
-
-If you find this project useful in your research or coursework, please cite:
-
+**PID Simulation:**
+![PID Simulation](results/pid_simulation.png)
 
 
